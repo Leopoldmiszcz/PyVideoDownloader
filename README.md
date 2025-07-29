@@ -2,6 +2,19 @@
 
 A simple command-line tool for downloading YouTube videos and playlists with customizable options.
 
+## ⚠️ Legal Disclaimer
+
+**This tool is created as an educational hobby project for learning purposes only.**
+
+- This project is **NOT** intended for copyright infringement or content piracy
+- Users are responsible for complying with YouTube's Terms of Service and applicable copyright laws
+- Only download content you have permission to download or content that is in the public domain
+- Respect content creators' rights and consider supporting them through official channels
+- This tool is for personal, educational, and non-commercial use only
+- The author assumes no responsibility for misuse of this software
+
+**Please use this tool responsibly and ethically.**
+
 ## Features
 
 - Download individual YouTube videos
