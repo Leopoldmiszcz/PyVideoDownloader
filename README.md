@@ -2,7 +2,7 @@
 
 A simple command-line tool for downloading YouTube videos and playlists with customizable options.
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 
 **This tool is created as an educational hobby project for learning purposes only.**
 
