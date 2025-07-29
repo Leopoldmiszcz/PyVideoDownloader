@@ -1,0 +1,10 @@
+[project]
+name = "ytvideodownloader"
+version = "0.1.0"
+description = "CLI tool for downloading Youtube videos."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.2.1",
+    "pytubefix>=9.4.1",
+]
