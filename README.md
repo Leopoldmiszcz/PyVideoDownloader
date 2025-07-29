@@ -15,6 +15,10 @@ A simple command-line tool for downloading YouTube videos and playlists with cus
 
 **Please use this tool responsibly and ethically.**
 
+## Important
+
+I will export this project as an app in future. For now you need to type commands below in the same directory as source code.
+
 ## Features
 
 - Download individual YouTube videos
